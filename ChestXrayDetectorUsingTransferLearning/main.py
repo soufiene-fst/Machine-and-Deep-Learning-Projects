@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Feb  1 19:54:59 2021
 
-@author: Shibin Judah Paul
-"""
 
 
 from tensorflow.keras.applications.mobilenet_v2 import preprocess_input
