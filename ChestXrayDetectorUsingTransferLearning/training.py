@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Jan 20 20:15:09 2021
 
-@author: Shibin Judah Paul
-"""
 
 import numpy as np # linear algebra
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
