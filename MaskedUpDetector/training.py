@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 15 18:07:09 2020
 
-@author: Shibin Judah Paul
-"""
 
 
 # import tensorflow
